@@ -1,0 +1,81 @@
+/*==================================================================================
+    Custom Stylesheet (Any custom styling you want to apply should be defined here).
+====================================================================================*/
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+.color-site-1{
+    color:#5A1E68 !important;
+}
+
+.color-site-2{
+    color:#943A80 !important;
+}
+
+.color-site-3{
+    color:#0072B3 !important;
+}
+
+.color-site-light{
+    color: #bb68a9 !important;
+}
+
+.style_mockup {
+    border-radius: 15px;
+}
+
+.slider-font {
+    font-family: 'Paytone One', sans-serif;
+}
+
+.background-color-site-2{
+    background-color:#943A80 !important;
+}
+
+.twitter-color {
+    color: #1c9cea !important;
+}
+
+.facebook-color {
+    color: #3b5998 !important;
+}
+
+.instagram-color {
+    color: #e94f33 !important;
+}
+
+.ntech-wifi-card{
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin: 16px;
+    background-color: #fff;
+}
+
+.ntech-wifi-card .panel-1{
+    background-color:#5A1E68;
+    text-align: center;
+    font-size: 25px;
+    color:#FFF402 ;
+    padding: 7px;
+}
+
+.ntech-wifi-card .panel-2{
+    background-color: #fff;
+}
+
+.ntech-wifi-card .panel-2 ul{
+    color: #020000;
+}
+
+.ntech-wifi-card .panel-3{
+    background-color:#5A1E68;
+    color:#FFF402 ;
+    text-align: center;
+    padding: 7px;
+}
+
+.error{
+    color: red !important;
+    font-size: 12px !important;
+    padding-top: 5px !important;
+}
+
